@@ -49,7 +49,7 @@
 - CidirBlock: `10.0.40.0`
 - Availability Zone: `us-west-1c`
 
-## STEP 2: Create 2 Public Route Rable and 6 Private Route Tables (Because of NAT Redundancy Implementation)
+## STEP 2: Create 2 Public Route Table and 6 Private Route Tables (Because of NAT Redundancy Implementation)
 - See AWS Doc: https://www.shorturl.at/HSU18
 
 ### A) NAT/ALB Public Subnet 1 Route Table
